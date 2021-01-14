@@ -1,0 +1,1959 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13_ENG_COM_BACHAREL_ALTA.pdf
+
+
+13
+
+Novembro/17
+13ENGENHARIA DE COMPUTAÇÃOBACHARELADO
+
+LEIA COM ATENÇÃO AS INSTRUÇÕES ABAIXO.
+
+40%
+25%
+
+60%
+
+15%
+75%
+
+- -
+
+.
+
+13
+
+*R1320171*
+
+
+
+2 ENGENHARIA DE COMPUTAÇÃO
+
+FORMAÇÃO GERAL
+
+QUESTÃO DISCURSIVA 01
+
+TEXTO 1
+
+TEXTO 2
+
+TEXTO 3
+
+ [online
+
+*R1320172*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+RASCUNHO
+
+1
+
+2
+
+4
+
+5
+
+6
+
+7
+
+9
+
+10
+
+11
+
+12
+
+14
+
+15
+
+*R1320173*
+
+
+
+4 ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO DISCURSIVA 02
+
+trans
+
+trans.
+
+RASCUNHO
+
+1
+
+2
+
+4
+
+5
+
+6
+
+7
+
+9
+
+10
+
+11
+
+12
+
+14
+
+15
+
+*R1320174*
+
+
+
+5ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 01
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Contribuições para a UE
+
+Dados de 2014, em € bilhões 
+
+40
+
+30
+
+20
+
+10
+
+0
+
+A
+le
+
+m
+a
+
+n
+h
+
+a
+
+F
+ra
+
+n
+ç
+a
+
+It
+á
+
+li
+a
+
+R
+e
+
+in
+o
+
+ U
+n
+
+id
+o
+
+E
+sp
+
+a
+n
+
+h
+a
+
+H
+o
+
+la
+n
+
+d
+a
+
+S
+u
+
+é
+c
+ia
+
+B
+é
+
+lg
+ic
+
+a
+
+P
+o
+
+lô
+n
+
+ia
+
+Á
+u
+
+st
+ri
+
+a
+
+D
+in
+
+a
+m
+
+a
+rc
+
+a
+
+O
+u
+
+tr
+o
+
+s 
+p
+
+a
+ís
+
+e
+s
+
+50
+
+42,1
+
+25,8
+
+19,5
+
+14,3
+
+11,3
+9,9
+
+6,3
+
+3,8 3,6 3,5
+2,6 2,2
+
+Reino Unido e UE
+
+Dados de 2014, em € bilhões
+
+Contribuição do Reino Unido com a UE
+
+Gasto da UE com o Reino Unido
+
+15
+
+11,3
+
+6,9
+
+10
+
+5
+
+0
+
+*R1320175*
+
+
+
+6 ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 02
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R1320176*
+
+
+
+7ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 03
+
+(kW)
+
+24
+
+5
+
+5
+
+5
+
+Modem stand-by 24
+Modem
+
+modem stand-by
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R1320177*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+TEXTO 1
+
+TEXTO 2
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R1320178*
+
+
+
+9ENGENHARIA DE COMPUTAÇÃO
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R1320179*
+
+
+
+10 ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 06
+
+.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201710*
+
+
+
+11ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 07
+
+Rhysophora mangle
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201711*
+
+
+
+12 ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 08
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201712*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO DISCURSIVA 03
+
+M unsign ed char **M
+
+i j
+
+RASCUNHO
+
+1
+
+2
+
+4
+
+5
+
+6
+
+7
+
+9
+
+10
+
+11
+
+12
+
+14
+
+15
+
+*R13201713*
+
+
+
+14 ENGENHARIA DE COMPUTAÇÃO
+
+bits
+bits
+
+Kbytes. 
+bits
+
+negative 
+temperature coefficient
+
+R
+
+Vref
+
+R
+
+Kbits,
+
+Vref
+
+10K
+
+Vo
+
+R
+
+Circuito de interfaceTermistores Símbolos
+
+*R13201714*
+
+
+
+15ENGENHARIA DE COMPUTAÇÃO
+
+RASCUNHO
+
+1
+
+2
+
+4
+
+5
+
+6
+
+7
+
+9
+
+10
+
+11
+
+12
+
+14
+
+15
+
+*R13201715*
+
+
+
+16 ENGENHARIA DE COMPUTAÇÃO
+
+e
+
+e
+
+RASCUNHO
+
+1
+
+2
+
+4
+
+5
+
+6
+
+7
+
+9
+
+10
+
+11
+
+12
+
+14
+
+15
+
+*R13201716*
+
+
+
+17ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 09
+
+versus
+
+A
+
+B
+
+C
+
+D
+
+E
+
+QUESTÃO 10
+
+.
+
+V.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+*R13201717*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 11
+
+.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+QUESTÃO 12
+
+T(t)
+A
+
+t k
+
+A
+dT
+dt
+
+k T A T t T A e Akt= − − = − +−( ); ( ) ( ( ) )0
+
+B
+dT
+dt
+
+k T A T t T A e Akt= − = − +( ); ( ) ( ( ) )0
+
+C
+dT
+dt
+
+k T A T t e Akt= − − = +−( ); ( )
+
+D
+dT
+dt
+
+k T A T t e Akt= − = +−( ); ( )
+
+E
+dT
+dt
+
+k T A T t e Akt= − = +( ); ( )
+
+QUESTÃO 13
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201718*
+
+
+
+19ENGENHARIA DE COMPUTAÇÃO
+
+P = f (z) z P
+ = 1,025 × 103 kg·m−3ρ
+
+g 2 .
+
+A
+
+4 000
+
+3 000
+
+2 000
+
+1 000
+
+0
+
+10 055 20 111 30 166 40 221
+
+P
+ro
+
+fu
+n
+
+d
+id
+
+a
+d
+
+e
+ (
+
+m
+)
+
+Pressão (kPa)
+
+D
+
+4 000
+
+3 000
+
+2 000
+
+1 000
+
+0
+
+10 055 20 111 30 166 40 221
+
+P
+ro
+
+fu
+n
+
+d
+id
+
+a
+d
+
+e
+ (
+
+m
+)
+
+Pressão (kPa)
+
+B
+
+P
+ro
+
+fu
+n
+
+d
+id
+
+a
+d
+
+e
+ (
+
+m
+)
+
+Pressão (kPa)
+
+4 000
+
+3 000
+
+2 000
+
+1 000
+
+0
+
+10 055 20 111 30 166 40 221
+
+E
+
+4 000
+
+3 000
+
+2 000
+
+1 000
+
+0
+
+10 055 20 111 30 166 40 221
+
+P
+ro
+
+fu
+n
+
+d
+id
+
+a
+d
+
+e
+ (
+
+m
+)
+
+Pressão (kPa)
+
+C
+
+4 000
+
+3 000
+
+2 000
+
+1 000
+
+0
+
+10 055 20 111 30 166 40 221
+
+P
+ro
+
+fu
+n
+
+d
+id
+
+a
+d
+
+e
+ (
+
+m
+)
+
+Pressão (kPa)
+
+*R13201719*
+
+
+
+20 ENGENHARIA DE COMPUTAÇÃO
+
+A
+
+B
+
+C
+
+D
+
+E
+
+QUESTÃO 16
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201720*
+
+
+
+21ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 17
+
+V0.
+
+r h
+
+A(r,h)
+
+C(r,h)
+
+C r h K rh K r( , ) ( )= +2
+1 2
+
+2π
+
+K1 e K2
+
+A r h rh r( , ) = +2 2 2π π .
+
+g r h r h V( , ) = −π 2
+0 .
+
+C r h g r h( , ) ( , )= λ
+
+A
+
+B
+
+C
+
+D
+
+E
+
+QUESTÃO 18
+
+σ =
+3
+
+2 2
+Fd
+
+wh
+
+F d
+w h
+
+A 50%
+
+B 75%
+
+C 100%
+
+D 125%
+
+E 200%
+
+*R13201721*
+
+
+
+22 ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 19
+
+A
+
+A
+
+C1
+
+C2
+
+C3
+
+C4
+
+B C D
+
+D
+
+A
+C1
+C2
+
+C3
+
+C4
+
+B C D
+
+B
+
+A
+
+C1
+
+C2
+
+C3
+
+C4
+
+B C D
+
+E
+
+A
+C1
+C2
+
+C3
+
+C4
+
+B C D
+
+C
+
+A
+C1
+
+C2
+
+C3
+
+C4
+
+B C D
+
+*R13201722*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 20
+
+A
+
+B
+
+C
+
+D
+
+E
+
+QUESTÃO 21
+
+bits
+bits
+
+bit
+bit
+
+| & e ~
+
+bit bit
+
+A MODOEVENTO = 0x0018
+
+B MODOEVENTO |= 0x0018
+
+C MODOEVENTO &= ~0x0018
+
+D MODOEVENTO = (MODOEVENTO | 0x0018) 
+& ~0x0038
+
+E MODOEVENTO = (MODOEVENTO & ~0x0038)
+| 0x0018
+
+*R13201723*
+
+
+
+24 ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 22
+
+bits,
+
+#include <stdio.h> 
+
+void main(void) {
+
+int salario1, salario2;
+
+int *ptr;
+
+salario1 = 6750;
+
+ptr = &salario1;
+
+salario2 = *ptr + 1000;
+
+}
+
+.
+
+A
+
+Endereço
+(Byte)
+0x007B 00
+
+00
+00
+70
+00
+00
+1E
+46
+00
+00
+1A
+5E
+
+0x007A
+0x0079
+0x0078
+0x0077
+0x0076
+0x0075
+0x0074
+0x0073
+0x0072
+0x0071
+0x0070
+
+ptr
+
+salario2
+
+salario1
+
+Dado Nome da variável
+
+D
+
+Endereço
+(Byte)
+0x007B 5E
+
+1A
+00
+00
+E8
+0A
+00
+00
+5E
+1A
+00
+00
+
+0x007A
+0x0079
+0x0078
+0x0077
+0x0076
+0x0075
+0x0074
+0x0073
+0x0072
+0x0071
+0x0070
+
+ptr
+
+salario2
+
+salario1
+
+Dado Nome da variável
+
+B
+
+Endereço
+(Byte)
+0x007B 00
+
+00
+1A
+5E
+00
+00
+04
+58
+00
+00
+1A
+5E
+
+0x007A
+0x0079
+0x0078
+0x0077
+0x0076
+0x0075
+0x0074
+0x0073
+0x0072
+0x0071
+0x0070
+
+ptr
+
+salario2
+
+salario1
+
+Dado Nome da variável
+
+E
+
+Endereço
+(Byte)
+0x007B 00
+
+00
+1A
+5E
+00
+00
+04
+60
+00
+00
+1A
+5E
+
+0x007A
+0x0079
+0x0078
+0x0077
+0x0076
+0x0075
+0x0074
+0x0073
+0x0072
+0x0071
+0x0070
+
+ptr
+
+salario2
+
+salario1
+
+Dado Nome da variável
+
+C
+
+Endereço
+(Byte)
+0x007B 70
+
+00
+00
+00
+46
+1E
+00
+00
+5E
+1A
+00
+00
+
+0x007A
+0x0079
+0x0078
+0x0077
+0x0076
+0x0075
+0x0074
+0x0073
+0x0072
+0x0071
+0x0070
+
+ptr
+
+salario2
+
+salario1
+
+Dado Nome da variável
+
+*R13201724*
+
+
+
+25ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 23
+
+inicio
+
+   x1 == 0;
+
+   x2 == 0;
+
+repita
+
+      leia u;
+
+      xt == x1;
+
+      x1 == - x2;
+
+      x2 == 0.5 * xt - x2 + u;
+
+m
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201725*
+
+
+
+26 ENGENHARIA DE COMPUTAÇÃO
+
+.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+greedysearch
+
+gateways 
+
+A gateways
+
+B
+
+covert channel
+
+C network layer 
+
+D
+
+E
+
+*R13201726*
+
+
+
+27ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 26
+
+struct eventos {
+
+   char ocorrencia[200];
+
+   char dataHora[50];
+
+};
+
+int inicio = 0;
+
+int processaEvento (struct eventos *recuperado) {
+
+     return - 1;
+
+   }
+
+   else {
+
+     inicio++;
+
+     copiaEvento (recuperado, eve[inicio - 1]);
+
+     return 0;
+
+   }
+
+}
+
+int insereEvento (struct eventos *novo) {
+
+      return -1;
+
+   }
+
+   else {
+
+     return 0;
+
+   }
+
+}
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201727*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 27
+
+hardware e 
+
+tablet  smartphone
+hardware e
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201728*
+
+
+
+29ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 28
+
+K
+P
+
+1
+P
+
+2
+P
+
+K
+J
+
+M
+1
+
+M
+2
+
+M
+J
+
+P
+i
+
+S
+i
+
+i  1 2  ...,K M
+J
+
+r
+j
+
+j  1, 2, ..., J b
+ij
+
+P
+i
+
+M
+J
+
+e y
+ij
+
+P
+i
+
+M
+J
+.
+
+y b
+ij
+
+j
+
+J
+
+i
+
+K
+
+ij
+==
+∑∑
+11
+
+.
+
+y s
+ij
+
+j
+
+J
+
+i
+=
+∑ ≤
+1
+
+i  1, 2, ..., K.
+
+y r
+ij
+
+i
+
+K
+
+j
+=
+∑ ≤
+1
+
+j  1, 2, ..., J.
+
+M
+j
+
+K · y
+ij
+.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+QUESTÃO 29
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201729*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 30
+
+A
+
+B
+
+C
+
+D
+
+E
+
+QUESTÃO 31
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201730*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 32
+
+graphics processing unit
+
+Especificação
+de Vértices
+
+Imagem Operações
+por Pixel
+
+Vertex Shader Tesselation Shader
+
+Fragment Shader
+
+Geometry Shader
+
+Rasterização
+
+Pós
+Processamento
+
+Montagem
+de
+
+Primitivas Básicas
+
+A
+
+.
+
+B
+
+C
+
+D
+
+E
+
+*R13201731*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+QUESTÃO 33
+
+hackers
+
+ DENY e REVOKE
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201732*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+smartphones
+
+smartphones
+
+smartphones,
+
+A
+
+B
+
+C
+
+D
+
+E
+
+*R13201733*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+D D(v)
+v.
+
+D
+
+A  B  C  D  E e F
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1
+
+2
+
+4
+
+4 6
+
+753A
+
+B
+
+C
+
+3
+
+D
+
+1
+
+5
+
+E
+
+4
+
+F
+
+D  =
+
+1  2  3  4  5  6  7  
+
+0  3  2  4  5  7  8  
+
+*R13201734*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+QUESTIONÁRIO DE PERCEPÇÃO DA PROVA
+As questões abaixo visam levantar sua opinião sobre a qualidade e a adequação da prova que você acabou de realizar.
+
+Formação Geral?
+
+A Muito fácil.
+
+B Fácil.
+
+C Médio.
+
+D
+
+E
+
+A Muito fácil.
+
+B Fácil.
+
+C Médio.
+
+D
+
+E
+
+Considerando a extensão da prova, em relação ao tempo
+
+total, você considera que a prova foi
+
+A muito longa.
+
+B longa.
+
+C adequada.
+
+D curta.
+
+E muito curta.
+
+Os enunciados das questões da prova na parte de
+
+A Sim, todos.
+
+B Sim, a maioria.
+
+C Apenas cerca da metade.
+
+D
+
+E Não, nenhum.
+
+Os enunciados das questões da prova na parte de
+
+A Sim, todos.
+
+B Sim, a maioria.
+
+C Apenas cerca da metade.
+
+D
+
+E Não, nenhum.
+
+As informações/instruções fornecidas para a resolução
+
+A Sim, até excessivas.
+
+B Sim, em todas elas.
+
+C Sim, na maioria delas.
+
+D Sim, somente em algumas.
+
+E Não, em nenhuma delas.
+
+Você se deparou com alguma culdade ao responder
+
+à prova. Qual?
+
+A Desconhecimento do conteúdo.
+
+B Forma diferente de abordagem do conteúdo.
+
+C
+
+D
+
+E
+à prova.
+
+você percebeu que
+
+A não estudou ainda a maioria desses conteúdos.
+
+B estudou alguns desses conteúdos, mas não os aprendeu.
+
+Cestudou a maioria desses conteúdos, mas não os aprendeu.
+
+D estudou e aprendeu muitos desses conteúdos.
+
+E estudou e aprendeu todos esses conteúdos.
+
+Qual foi o tempo gasto por você para concluir a prova?
+
+A Menos de uma hora.
+
+B Entre uma e duas horas.
+
+C Entre duas e três horas.
+
+D Entre três e quatro horas.
+
+E Quatro horas, e não consegui terminar.
+
+CARTÃO-RESPOSTA.
+
+*R13201735*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+*R13201736*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+*R13201737*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+*R13201738*
+
+
+
+ENGENHARIA DE COMPUTAÇÃO
+
+*R13201739*
+
+
+
+40 ENGENHARIA DE COMPUTAÇÃO
+
+13
+
+*R13201740*
+
+
